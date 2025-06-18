@@ -171,7 +171,7 @@ const Navbar = ({ navigate }) => {
     return (
         <nav className="bg-[#fb0404] p-4 shadow-lg rounded-b-xl mb-6 text-gray-100"> {/* Primary Dark Color */}
             <div className="container mx-auto flex justify-between items-center flex-wrap">
-                <div className="text-[#ffffff] text-2xl font-bold rounded-md px-3 py-1 bg-opacity-20 bg-white"> {/* Secondary Dark Accent */}
+                <div className="text-[#ffffff] text-2xl font-bold rounded-md px-3 py-1 bg-opacity-20 bg-black"> {/* Secondary Dark Accent */}
                     Jobsy.com
                 </div>
                 <div className="flex-grow flex justify-center mt-2 md:mt-0">
